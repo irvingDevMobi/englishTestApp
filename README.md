@@ -2,6 +2,12 @@
 
 Basic KMP app that uses OpenAi Api to get a ser a questions to assign you an English Level.
 
+# How to Test Android App
+- On an Android device or Android Emulator, download /releases/composeApp-debug_alpha.apk file
+- Open file and allow Unknown sources installation permission for the app.
+- After install the apk, open the English Test App.
+- In the input field, paste a valid API KEY
+
 # Requirements to run the project
 
 - Android Studio
@@ -12,10 +18,7 @@ Basic KMP app that uses OpenAi Api to get a ser a questions to assign you an Eng
 ## How to run the project
 
 - Import the project with Android Studio
-- Open /composeApp/src/commonMain/kotlin/App.kt file
-- Write your own API KEY
 - Run the project
-
 
 
 
