@@ -1,3 +1,24 @@
+# English Test App
+
+Basic KMP app that uses OpenAi Api to get a ser a questions to assign you an English Level.
+
+# Requirements to run the project
+
+- Android Studio
+- Create a Android Emulator with Android Studio or use real device
+- Open AI API KEY
+- Xcode in case you want to run the iOS version
+
+## How to run the project
+
+- Import the project with Android Studio
+- Open /composeApp/src/commonMain/kotlin/App.kt file
+- Write your own API KEY
+- Run the project
+
+
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
